@@ -15,6 +15,7 @@
 	font-style:italic;
 	align-items:left;
 }
-p{
-	align-items:left;
+.text{
+/* 	align-items:left; */
+	text-align:left;
 }
